@@ -1,0 +1,256 @@
+body{
+  overflow-x: hidden;
+  background-image:image(imagens/Sem título.png);
+}
+
+.cabecalho{
+  border: 2px solid #04B486;
+  border-radius: 20px 20px 0px 0px;
+  height: 80px;
+  width: 100%;
+  padding: 20px;
+}
+
+#foneCabecalho{
+    margin-left: 120px;
+    top: -2px;
+}
+#cabecalhoPt3{
+    margin-left: -130px;
+}
+
+.rodape{
+  height: 177px;
+  width: 100%;
+  padding: 40px;
+  background-color: #04B486;
+}
+
+a{
+    margin: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #04B486;
+}
+
+h1, h3{
+  /*margin: 6px;*/
+  font-weight: bold;
+  color: #04B486;
+}
+
+#h1titulo{
+	font-size: 38px;
+}
+
+p{
+  /*margin: 6px;*/
+  padding: 3px;
+  font-size: 15px;
+  color: #04B486;
+}
+
+.ulServicos{
+  margin: 6px;
+  padding: 3px;
+  font-size: 15px;
+  color: #04B486;
+}
+
+.contato{
+  font-size: 16px;
+  font-weight: bold;
+  color: #04B486;
+}
+
+.pRodape{
+  margin: 6px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.ulRodape{
+  margin: 6px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.img-principal{
+  width: 100%;
+}
+
+.principal-01{
+  border: 2px solid #1a6600;
+  border-radius:0px 25px 0px 25px;
+  position: relative;
+  bottom: 160px;
+  left: 80px;
+  height: 400px;
+  width: 85%;
+  background: #ffffff;
+  padding: 25px 20px;
+  z-index: 1;
+}
+
+.principal-02{
+  border: 2px solid #1a6600;
+  border-radius:25px 0px 25px 0px;
+  position: relative;
+  bottom: 160px;
+  left: 95px;
+  height: 220px;
+  width: 100%;
+  background: #ffffff;
+  padding: 30px;
+  margin: -570px 15px 35px 15px;
+}
+
+.principal-03{
+  border: 2px solid #1a6600;
+  position: relative;
+  bottom: 160px;
+  left: 95px;
+  height: 220px;
+  width: 100%;
+  background: #ffffff;
+  padding: 25px;
+  margin: -570px 15px 35px 15px;
+}
+
+.principal-04{
+  border: 2px solid #1a6600;
+  border-radius:0px 25px 0px 25px;
+  position: relative;
+  bottom: 160px;
+  left: 110px;
+  height: 220px;
+  width: 100%;
+  background: #ffffff;
+  padding: 30px 25px;
+  margin: -570px 15px 35px 15px;
+}
+
+#img-principal2{
+	background-repeat: no-repeat;
+	z-index: 0;
+	position: relative;
+	height: 780px;
+	width: 100%;
+	margin: -180px auto 0px 2px;
+}
+
+.principal-05{
+  border: 2px solid #1a6600;
+  border-radius: 0px 25px 0px 25px;
+  position: relative;
+  bottom: 100px;
+  left: 95px;
+  height: 170px;
+  width: 100%;
+  background: #ffffff;
+  padding: 30px 25px;
+  margin: -360px 15px 15px 15px;
+}
+
+.principal-06{
+  border: 2px solid #1a6600;
+  position: relative;
+  bottom: 100px;
+  left: 95px;
+  height: 170px;
+  width: 100%;
+  background: #ffffff;
+  padding: 30px;
+  margin: -360px 15px 15px 15px;
+}
+
+.principal-07{
+  border: 2px solid #1a6600;
+  border-radius: 25px 0px 25px 0px;
+  position: relative;
+  bottom: 100px;
+  left: 110px;
+  height: 170px;
+  width: 100%;
+  background: #ffffff;
+  padding: 30px 15px 20px 15px;
+  margin: -360px 15px 15px 15px;
+}
+
+.imagens{
+  width: 290px;
+  height: 200px;
+}
+
+.principal-08{
+  position: relative;
+  bottom: 80px;
+  left: 40px;
+  height: 400px;
+  width: 85%;
+  background: #ffffff;
+  padding: 30px;
+  margin-top: -100px;
+}
+
+.principal-09{
+  border: 2px solid #1a6600;
+  border-radius:0px 25px 0px 25px;
+  position: relative;
+  bottom: 160px;
+  left: 80px;
+  height: 400px;
+  width: 85%;
+  background: #ffffff;
+  padding: 30px;
+}
+
+.principal-10{
+  border: 2px solid #1a6600;
+  border-radius:0px 25px 0px 25px;
+  position: relative;
+  bottom: 120px;
+  left: 80px;
+  height: 980px;
+  width: 85%;
+  background: #ffffff;
+  padding: 30px;
+}
+
+.principal-11{
+  border: 2px solid #1a6600;
+  border-radius:0px 25px 0px 25px;
+  position: relative;
+  bottom: 100px;
+  left: 80px;
+  height: 1050px;
+  width: 85%;
+  background: #ffffff;
+  padding: 30px;
+}
+
+.table{
+  border: 2px solid #04B486;
+  margin: 30px;
+  height: 300px;
+}
+
+.cabecalhoTabela{
+  background-color: #04B486;
+  font-size: 20px;
+  font-weight: bold;
+  color: #FFFFFF;
+  height: 60px;
+}
+
+#tb2, #tb02, #tb3, #tb03, #tb4, #tb04, #tb5, #tb05, #tb6, #tb06{
+	text-align: center;
+}
+
+#image{
+	background-repeat: no-repeat;
+	height: 500px;
+  	width: 100%;
+}
